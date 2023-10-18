@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "gender": "Male",
+    "name": "John Doe",
+    "contact": "+1 (555) 123-4567",
+    "address": "123 Main St, Anytown, USA",
+    "photoUrl": "https://picsum.photos/200/300/?random=1"
+  },
+  {
+    "id": 2,
+    "gender": "Female",
+    "name": "Jane Smith",
+    "contact": "+1 (555) 234-5678",
+    "address": "456 Elm St, Othertown, USA",
+    "photoUrl": "https://picsum.photos/200/300/?random=2"
+  },
+  {
+    "id": 3,
+    "gender": "Male",
+    "name": "Robert Johnson",
+    "contact": "+1 (555) 345-6789",
+    "address": "789 Oak St, Anycity, USA",
+    "photoUrl": "https://picsum.photos/200/300/?random=3"
+  },
+  {
+    "id": 4,
+    "gender": "Female",
+    "name": "Emily Davis",
+    "contact": "+1 (555) 456-7890",
+    "address": "101 Pine St, Somewhere, USA",
+    "photoUrl": "https://picsum.photos/200/300/?random=4"
+  },
+  {
+    "id": 5,
+    "gender": "Male",
+    "name": "Michael Brown",
+    "contact": "+1 (555) 567-8901",
+    "address": "222 Maple St, Anothercity, USA",
+    "photoUrl": "https://picsum.photos/200/300/?random=5"
+  },
+  {
+    "id": 6,
+    "gender": "Female",
+    "name": "Sarah Wilson",
+    "contact": "+1 (555) 678-9012",
+    "address": "333 Birch St, Sometown, USA",
+    "photoUrl": "https://picsum.photos/200/300/?random=6"
+  },
+  {
+    "id": 7,
+    "gender": "Male",
+    "name": "William Lee",
+    "contact": "+1 (555) 789-0123",
+    "address": "444 Cedar St, Anyvillage, USA",
+    "photoUrl": "https://picsum.photos/200/300/?random=7"
+  },
+  {
+    "id": 8,
+    "gender": "Female",
+    "name": "Olivia Hall",
+    "contact": "+1 (555) 890-1234",
+    "address": "555 Spruce St, Yourtown, USA",
+    "photoUrl": "https://picsum.photos/200/300/?random=8"
+  },
+  {
+    "id": 9,
+    "gender": "Male",
+    "name": "James Taylor",
+    "contact": "+1 (555) 901-2345",
+    "address": "666 Fir St, Anyplace, USA",
+    "photoUrl": "https://picsum.photos/200/300/?random=9"
+  },
+  {
+    "id": 10,
+    "gender": "Female",
+    "name": "Ava Lewis",
+    "contact": "+1 (555) 012-3456",
+    "address": "777 Redwood St, Anotherplace, USA",
+    "photoUrl": "https://picsum.photos/200/300/?random=10"
+  }
+]
